@@ -4,7 +4,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
   <title>The Science of Spirit</title>
-  <link>https://yoursite.com</link>
+  <link>https://pretzeltacotaketwo.github.io/science-of-spirit-feed</link>
   <description>A systematic journey through Rudolf Steiner&#x27;s complete works — from The Philosophy of Freedom through Karmic Relationships and beyond. Mystical depth, academic rigor, accessible delivery.</description>
   <language>en-us</language>
   <copyright>Copyright 2026 The Science of Spirit</copyright>
@@ -15,10 +15,10 @@
   <image>
     <url>https://your-image-host.com/podcast-cover.jpg</url>
     <title>The Science of Spirit</title>
-    <link>https://yoursite.com</link>
+    <link>https://pretzeltacotaketwo.github.io/science-of-spirit-feed</link>
   </image>
   <lastBuildDate>Sun, 03 May 2026 12:00:00 GMT</lastBuildDate>
-  <itunes:new-feed-url>https://yoursite.com/rss.xml</itunes:new-feed-url>
+  <itunes:new-feed-url>https://pretzeltacotaketwo.github.io/science-of-spirit-feed/rss.xml</itunes:new-feed-url>
   <item>
     <title>GA 1 — Universe  Earth and Man  The Origin of Everything</title>
     <description>Episode 1 of The Science of Spirit. A reading from Rudolf Steiner's collected works. Title: Universe  Earth and Man  The Origin of Everything.</description>
